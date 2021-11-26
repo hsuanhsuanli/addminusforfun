@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1018018018018018" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1018018018018018" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/drawable/switch_false_thumb.xml" value="0.13963963963963963" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/drawable/switch_false_track.xml" value="0.13963963963963963" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/drawable/switch_thumb.xml" value="0.13963963963963963" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/drawable/switch_track.xml" value="0.13963963963963963" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/drawable/switch_true_thumb.xml" value="0.13963963963963963" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/drawable/switch_true_track.xml" value="0.13963963963963963" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_add_easy.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_add_easy_game.xml" value="0.16666666666666666" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_add_hard.xml" value="0.16354166666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_add_medium.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_addeasy.xml" value="0.14666666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_addgame.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_game.xml" value="0.16666666666666666" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_minus_easy.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_minus_hard.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_minus_medium.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_minusgame.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_playsetting.xml" value="0.15885416666666666" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_star1.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_star2.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_star3.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_star4.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/activity_star5.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/add_easy_dialog.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/add_hard_dialog.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/add_medium_dialog.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/addforfun.xml" value="0.15885416666666666" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/addquiz.xml" value="0.13802083333333334" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/game.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/minus_easy_dialog.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/minus_hard_dialog.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/minus_medium_dialog.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/layout/playsetting_dialog.xml" value="0.1" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/menu/corner_list.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/menu/corner_list01.xml" value="0.17916666666666667" />
+        <entry key="..\:/APPProject/Addminusforfun/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1018018018018018" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

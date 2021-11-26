@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Addminusforfun</string>
+    <string name="addtitleeasy">加法-簡單</string>
+    <string name="addtitlemedium">加法-普通</string>
+    <string name="addtitlehard">加法-困難</string>
+</resources>

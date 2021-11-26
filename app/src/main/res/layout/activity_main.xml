@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/eggyellow"
+    >
+    <LinearLayout
+        android:id="@+id/maintitlebg"
+        android:layout_width="360dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:background="@drawable/title"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="63dp"
+            android:text="加減好好玩"
+            android:textSize="40sp"
+            android:gravity="center"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+        <ImageView
+            android:id="@+id/addgame"
+            android:layout_width="324dp"
+            android:layout_height="180dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/add"
+            android:scaleType="centerInside"/>
+        <ImageView
+            android:id="@+id/minusgame"
+            android:layout_width="324dp"
+            android:layout_height="180dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/minus"
+            android:scaleType="centerInside"/>
+        <ImageView
+            android:id="@+id/playsetting"
+            android:layout_width="324dp"
+            android:layout_height="180dp"
+            android:src="@drawable/setting"
+            android:layout_margin="10dp"
+            android:scaleType="centerInside"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>
